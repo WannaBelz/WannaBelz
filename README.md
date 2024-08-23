@@ -1,7 +1,7 @@
 <h1 align="center"> ✨ ＹＡＨＡＬＯ ✨ 
 
 
-<h3>I'm currently studying Computer Engineering and Digital Technology at Chulalongkorn University. </h3>
+<h3>ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴅɪɢɪᴛᴀʟ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴛ ᴄʜᴜʟᴀʟᴏɴɢᴋᴏʀɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ. </h3>
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
