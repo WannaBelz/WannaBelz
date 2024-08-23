@@ -1,4 +1,4 @@
-<h1 align="center"> ~ Yahalo ~ 
+<h1 align="center"> ✨ Yahalo ✨ 
 
 
 <h3>I'm currently studying Computer Engineering and Digital Technology at Chulalongkorn University. </h3>
