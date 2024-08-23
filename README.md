@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ ＹＡＨＡＬＯ ✨ 
+<h1 align="center"> ✨ ＹＡＨＡＬＯ ✨ <br/>
 
 
 <h3>ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴅɪɢɪᴛᴀʟ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴛ ᴄʜᴜʟᴀʟᴏɴɢᴋᴏʀɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ. </h3>
@@ -31,6 +31,12 @@
 
 I'm definitely a cat person. 🐈‍⬛
 
-### <h1 align="center"> Nice to meet y'all
+<br/>
+
+## 𝐙𝐨𝐧𝐢𝐧𝐠 𝐎𝐮𝐭 🎵
+
+zzz
+
+### <h1 align="center"> 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲'𝐚𝐥𝐥.
 <h1 align="center">
    <img src="https://github.com/user-attachments/assets/ffa6c2b7-9fc8-4cc4-ad43-5d695cd5ad4b">
