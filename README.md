@@ -24,4 +24,4 @@ I'm currently studying Computer Engineering and Digital Technology at Chulalongk
 
 ### ⭐ Fun fact
 
-I'm definitely not a cat person. 🐈‍⬛
+I'm definitely a cat person. 🐈‍⬛
