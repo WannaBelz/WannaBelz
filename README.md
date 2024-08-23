@@ -1,4 +1,5 @@
-<h1 align="center"> ~ Yahalo ~ 👋
+<h1 align="center"> Yahalo ~ 👋
+
 
 <h3>I'm currently studying Computer Engineering and Digital Technology at Chulalongkorn University. </h3>
 
@@ -29,3 +30,7 @@
 ### ⭐ Fun fact
 
 I'm definitely a cat person. 🐈‍⬛
+
+### <h1 align="center"> Nice to meet y'all
+<h1 align="center">
+   <img src="https://github.com/user-attachments/assets/ffa6c2b7-9fc8-4cc4-ad43-5d695cd5ad4b">
