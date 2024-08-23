@@ -18,7 +18,7 @@ I'm currently studying Computer Engineering and Digital Technology at Chulalongk
     <img src="https://img.shields.io/badge/Instagram-fa3ec2.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/supawich.rangponsumrit/">
-    <img src="https://img.shields.io/badge/Facebook-3220fa.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
 
