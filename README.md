@@ -11,17 +11,17 @@
 
 <br/>
 
-**I love working with**
+## I love working with
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,c,cpp,py)](https://skillicons.dev)
 
-### ✨ I’m working on
+## ✨ I’m working on
 
 - Learning about programing and more.
 - Finding new passion.
 
 
-### 📫 How to reach me
+## 📫 How to reach me
 <div display="flex">
   <a href="https://www.instagram.com/nomsod_a_roi/">
     <img src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
