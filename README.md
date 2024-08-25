@@ -43,6 +43,7 @@ I'm definitely a cat person. 🐈‍⬛
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k5mfthto2f6r4epuja6am7ivuq&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31k5mfthto2f6r4epuja6am7ivuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
+<br/>
 
 ### <h1 align="center"> 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲'𝐚𝐥𝐥.
 <h1 align="center">
