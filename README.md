@@ -41,7 +41,7 @@ I'm definitely a cat person. 🐈‍⬛
 
 ## 𝐙𝐨𝐧𝐢𝐧𝐠 𝐎𝐮𝐭 🎵
 
-zzz
+[<img src="https://novatorem-rdet4a7l9-wannabelzs-projects.vercel.app/api/spotify">](https://open.spotify.com/user/cc429061f50948988397b635ee2adc55)
 
 ### <h1 align="center"> 𝐍𝐢𝐜𝐞 𝐭𝐨 𝐦𝐞𝐞𝐭 𝐲'𝐚𝐥𝐥.
 <h1 align="center">
