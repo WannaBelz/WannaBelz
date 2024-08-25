@@ -1,4 +1,8 @@
-<h1 align="center"> ✨ ＹＡＨＡＬＯ ✨ <br/>
+<h1 align="center"> ✨ ＹＡＨＡＬＯ ✨ <h1>
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/dbbcfd82-2fc9-47cc-b2b4-662e65a7bb19">
+
+  <br/>
 
 
 <h3>ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴄᴏᴍᴘᴜᴛᴇʀ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴀɴᴅ ᴅɪɢɪᴛᴀʟ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴀᴛ ᴄʜᴜʟᴀʟᴏɴɢᴋᴏʀɴ ᴜɴɪᴠᴇʀꜱɪᴛʏ. </h3>
