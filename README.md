@@ -15,11 +15,12 @@
 
 **I love working with**
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,c,cpp,py)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,c,cpp,py)](https://skillicons.dev) 
 
   
 ### ✨ I’m working on
 - Learning about programing and more.
+- Working on web development.
 - Finding new passion.
 
 
